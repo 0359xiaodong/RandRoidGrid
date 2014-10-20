@@ -6,7 +6,7 @@ There there 4 types of boxes that may appear in the layout in different random o
 - Small Squar: (1 unit x 1 unit).
 - Vertical Rectangle: (1 unit x 2 units).
 - Horizintal Rectangle: (2 units x 1 unit).
-- 
+
 
 NOTE: 1 unit equals to 25% of the screen width.
 
@@ -17,7 +17,9 @@ You can insert any view (TextView, Button, ImageView ..etc) inside each box.
 Check out the sweet screen shots here:
 
 1- [screenshot 1] (https://github.com/adhamenaya/AndroidAndroidRandomGrid/issues/1)
+
 2- [screenshot 2] (https://github.com/adhamenaya/AndroidRandomGrid/issues/2)
+
 3- [screenshot 3] (https://github.com/adhamenaya/AndroidRandomGrid/issues/3)
 
 #Getting Started
