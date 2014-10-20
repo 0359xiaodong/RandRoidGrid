@@ -171,6 +171,7 @@ For the xml layout, we have 2, one fot the cell layout which in our example cont
 ##TODO
 
 1- Instead of randomly choose the grid patterns, allow the ability to explicitly choose specific pattern.
+
 2- Allow to distribute the content according the size of the boxes in the grid.
 
 
