@@ -2,10 +2,13 @@
 Android UI layout the reprenste the view in random boxes.
 
 There there 4 types of boxes that may appear in the layout in different random orders:
-- Big Squar: (2x2).
-- Small Squar: (1x1).
-- Vertical Rectangle: (1x2).
-- Horizintal Rectangle: (2x1).
+- Big Squar: (2 units x 2 units).
+- Small Squar: (1 unit x 1 unit).
+- Vertical Rectangle: (1 unit x 2 units).
+- Horizintal Rectangle: (2 units x 1 unit).
+- 
+
+NOTE: 1 unit equals to 25% of the screen width.
 
 These shapes are order besdies each other to form one row in the grid-the row is 4 units(width)x 2 units(height).
 You can insert any view (TextView, Button, ImageView ..etc) inside each box.
@@ -13,11 +16,8 @@ You can insert any view (TextView, Button, ImageView ..etc) inside each box.
 #Screenshots
 Check out the sweet screen shots here:
 
-
 1- [screenshot 1] (https://github.com/adhamenaya/AndroidAndroidRandomGrid/issues/1)
-
 2- [screenshot 2] (https://github.com/adhamenaya/AndroidRandomGrid/issues/2)
-
 3- [screenshot 3] (https://github.com/adhamenaya/AndroidRandomGrid/issues/3)
 
 #Getting Started
@@ -166,10 +166,15 @@ For the xml layout, we have 2, one fot the cell layout which in our example cont
 
 </RelativeLayout>
 ```
+##TODO
+
+1- Instead of randomly choose the grid patterns, allow the ability to explicitly choose specific pattern.
+2- Allow to distribute the content according the size of the boxes in the grid.
+
 
 ##License
 ```
-Copyright (c) 2013 Adham Enaya
+Copyright (c) 2014 Adham Enaya
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
