@@ -14,13 +14,13 @@ These shapes are order besdies each other to form one row in the grid-the row is
 You can insert any view (TextView, Button, ImageView ..etc) inside each box.
 
 #Screenshots
-Check out the sweet screen shots here:
+Check out these 3 patterens (from more than 90 patterns available!)
 
-1- ![screenshot 1](https://cloud.githubusercontent.com/assets/1500868/4694957/315b3ee6-57de-11e4-947c-dee3b9c16774.png)
+![screenshot 1](https://cloud.githubusercontent.com/assets/1500868/4694957/315b3ee6-57de-11e4-947c-dee3b9c16774.png)
+![screenshot 2](https://cloud.githubusercontent.com/assets/1500868/4694959/3afdd7f6-57de-11e4-8950-341ec85e6468.png)
+![screenshot 3](https://cloud.githubusercontent.com/assets/1500868/4694961/41f52ee2-57de-11e4-9dc3-5fa49b2d2170.png)
 
-2- [screenshot 2] (https://github.com/adhamenaya/AndroidRandomGrid/issues/2)
-
-3- [screenshot 3] (https://github.com/adhamenaya/AndroidRandomGrid/issues/3)
+ 
 
 #Getting Started
 ### 1. Download AndroidRandomGridLibrary
