@@ -16,7 +16,7 @@ You can insert any view (TextView, Button, ImageView ..etc) inside each box.
 #Screenshots
 Check out the sweet screen shots here:
 
-1- [screenshot 1] (https://github.com/adhamenaya/AndroidRandomGrid/issues/1)
+1- ![screenshot 1](https://cloud.githubusercontent.com/assets/1500868/4694957/315b3ee6-57de-11e4-947c-dee3b9c16774.png)
 
 2- [screenshot 2] (https://github.com/adhamenaya/AndroidRandomGrid/issues/2)
 
