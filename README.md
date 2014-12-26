@@ -1,4 +1,4 @@
-#AndroidRandomGrid
+#RandRoidGrid
 Android UI layout the reprenste the view in random boxes.
 
 There there 4 types of boxes that may appear in the layout in different random orders:
